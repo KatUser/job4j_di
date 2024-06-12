@@ -1,6 +1,6 @@
-package lifecycle.beanpostprocessors;
+package ru.job4j.lifecycle.beanpostprocessors;
 
-import lifecycle.model.Product;
+import ru.job4j.lifecycle.model.Product;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
 
